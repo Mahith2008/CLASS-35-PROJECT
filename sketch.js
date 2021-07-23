@@ -98,9 +98,9 @@ if(foodS == 0){
   drawSprites();
   textSize(17);
   fill("black");
-  text("I am your Puppy 🐶Shiro..😍 I am Hungry ",100,150);
+  text("I am Hungry, Pls give me some food",100,150);
   fill("black");
-  text("Long Press up arrow key to feed your pet Dog Shiro",50,50);
+  text("Long Press up arrow key to feed your pet Dog",50,50);
   fill("black");
   text("Milk Bottles Remaining  "+foodS,170,440);
 }
